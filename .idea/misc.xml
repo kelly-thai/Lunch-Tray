@@ -7,6 +7,12 @@
         <entry key="..\:/Users/kelly/Downloads/android-basics-kotlin-lunch-tray-app-main/android-basics-kotlin-lunch-tray-app-main/app/src/main/res/layout/fragment_checkout.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/kelly/Downloads/android-basics-kotlin-lunch-tray-app-main/android-basics-kotlin-lunch-tray-app-main/app/src/main/res/layout/fragment_entree_menu.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/kelly/Downloads/android-basics-kotlin-lunch-tray-app-main/android-basics-kotlin-lunch-tray-app-main/app/src/main/res/layout/fragment_side_menu.xml" value="0.25052083333333336" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_accompaniment_menu.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_checkout.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_entree_menu.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_side_menu.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_start_order.xml" value="0.28229166666666666" />
       </map>
     </option>
   </component>
